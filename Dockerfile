@@ -20,3 +20,6 @@ EXPOSE 5000
 
 # Start the application
 CMD ["yarn", "start:dev"]
+
+# github repository link
+# https://github.com/Eric020615/SME-Assessment.git
